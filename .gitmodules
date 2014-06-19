@@ -1,0 +1,3 @@
+[submodule "uwrov"]
+	path = uwrov
+	url = https://github.com/Iluvatar/UWROV.git
